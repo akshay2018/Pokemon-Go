@@ -1,0 +1,23 @@
+# Pokemon-Go
+Basic JSON Data
+
+function 1 :
+    
+    In function 1 , forin loop is used to iterate through the Pokemon json data. inside the forin loop, the if() condition is used to check the entered name is equal to name of the pokemon in json array. if name matches the details of that pokemon is stored in the Details variable and var j=1. 
+        then another if() loop is used outside the for() loop , if j==1 then display the Details of Pokemon on console, else display Pokemon not Found.   
+
+
+function 2 :
+     
+     In function 2, for() loop is used to iterate through the Pokemon json data. inside for loop if() condition is used check whether entered name is equal to next_evolution name, if true display that Pokemon name through console.
+
+
+function 3 :
+
+     In function 3, for() loop is to iterate through the Pokemon Json data. inside that for() loop another for loop all Pokemons Weakness array, inside 2nd for() loop if() condition is used check each Pokemons Weakness is Equal to Entered Weakness, if true display all that Pokemon names.
+
+
+
+ JSON Data :
+  
+    Given JSON data is used in the js file with variable name Pokemon.          
